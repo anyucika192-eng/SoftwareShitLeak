@@ -52,6 +52,7 @@ made an online key system for the script (removed it from the leak)
 This shit is written in lua. The --"something" things are mainly hungarian translate it so you understand
 What works and worth pasteing -- Chams, the whole movement tab, aimbot, fakestuff, inf jump, spinbot, UI
 Whats not worth even seeing -- fly, noclip, bunnyhop, teamcheck(removed it),
+The aimbot is simple and can be pasted very easy (its a diffrent script)
 
 
 
