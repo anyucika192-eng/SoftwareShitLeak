@@ -1,7 +1,7 @@
 
 <a id="readme-top"></a>
 
-
+ 
   <h3 align="center">SoftwareShopz Paid Universal script leaked by its main scripter</h3>
 
   <p align="center">
