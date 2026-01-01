@@ -6,6 +6,7 @@
 
   <p align="center">
     Im Leakin this shit becuse the other dude ( 도쿄다이드 ) who had the DC server was a pain in the ass
+    Fell free to paste from ts btw its aint that bad becuse i made it useable
 
 
 <!-- ABOUT THE PROJECT -->
